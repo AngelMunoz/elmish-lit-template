@@ -55,5 +55,5 @@ let view state dispatch =
 
 
 Program.mkSimple init update view
-|> Program.withLit "fable-lit"
+|> Program.withLit "elmish-lit"
 |> Program.run

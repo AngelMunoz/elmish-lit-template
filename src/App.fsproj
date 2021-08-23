@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Elmish.Lit" Version="1.0.0-beta-001" />
+    <PackageReference Include="Elmish.Lit" Version="1.0.0-beta-002" />
   </ItemGroup>
 
 </Project>
